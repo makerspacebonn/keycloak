@@ -1,1 +1,1 @@
-FROM quay.io/keycloak/keycloak-x
+FROM jboss/keycloak:13.0.1
